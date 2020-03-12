@@ -2,7 +2,7 @@
 Paper list for deep learning in deciding and planning of auto-driving
 
 CVPR-2019
-[End-to-end Interpretable Neural Motion Planner](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf):
+[End-to-end Interpretable Neural Motion Planner](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)
 `新的 cost map 的建模方式`
  - Input and Output
    - A holistic model that takes as **input** raw LIDAR data and a HD map and **produces** interpretable intermediate representations in the form of 3D detections and their future motion forecasted over the planning horizon. 
