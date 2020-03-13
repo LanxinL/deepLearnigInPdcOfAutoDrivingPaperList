@@ -2,6 +2,11 @@
 Paper list for deep learning in deciding and planning of auto-driving
 
 ## Planning
+
+- Waymo (July 2019) & DeepMind - PBT (NOV 2017)
+  - To make this process more efficient, researchers at DeepMind devised a way to automatically determine good hyperparameter schedules based on evolutionary competition (called [“Population Based Training” or PBT](https://deepmind.com/blog/article/population-based-training-neural-networks]), which combines the advantages of hand-tuning and random search.
+
+
 CVPR-2019
 - [End-to-end Interpretable Neural Motion Planner](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)
 `新的 cost map 的建模方式`
