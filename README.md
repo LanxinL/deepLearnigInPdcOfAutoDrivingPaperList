@@ -15,6 +15,7 @@ CVPR-2019
    - To mitigate this problem, we introduce an another **perception loss** that encourages the intermediate representations
  to produce accurate 3D detections and motion forecasting.This ensures the interpretability of the intermediate representations and enables much faster learning.
 
+Journal 2019
 - [Advanced planning for autonomous vehicles using reinforcement learning and deep inverse reinforcement learning](http://dcsl.gatech.edu/papers/ras18b%20(Printed).pdf#page=17&zoom=100,414,861)
 
 ## Control
