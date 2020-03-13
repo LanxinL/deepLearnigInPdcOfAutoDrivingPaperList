@@ -3,11 +3,11 @@ Paper list for deep learning in deciding and planning of auto-driving
 
 ## Planning
 
-- Waymo (July 2019) & DeepMind - PBT (NOV 2017)
-  - To make this process more efficient, researchers at DeepMind devised a way to automatically determine good hyperparameter schedules based on evolutionary competition (called [“Population Based Training” or PBT](https://deepmind.com/blog/article/population-based-training-neural-networks]), which combines the advantages of hand-tuning and random search.
+### Technical Blog
+- [Waymo (July 2019) & DeepMind - PBT (NOV 2017)](https://blog.waymo.com/2019/08/how-evolutionary-selection-can-train.html)
+  - To make this process more efficient, researchers at DeepMind devised a way to automatically determine good hyperparameter schedules based on evolutionary competition (called [“Population Based Training” or PBT](https://deepmind.com/blog/article/population-based-training-neural-networks]),) which combines the advantages of hand-tuning and random search.
 
-
-CVPR-2019
+### CVPR-2019
 - [End-to-end Interpretable Neural Motion Planner](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)
 `新的 cost map 的建模方式`
   - Input and Output
@@ -20,7 +20,7 @@ CVPR-2019
    - To mitigate this problem, we introduce an another **perception loss** that encourages the intermediate representations
  to produce accurate 3D detections and motion forecasting.This ensures the interpretability of the intermediate representations and enables much faster learning.
 
-Journal 2019
+### Journal 2019
 - [Advanced planning for autonomous vehicles using reinforcement learning and deep inverse reinforcement learning](http://dcsl.gatech.edu/papers/ras18b%20(Printed).pdf#page=17&zoom=100,414,861)
 
 ## Control
