@@ -11,7 +11,6 @@ Paper list for deep learning in deciding and planning of auto-driving
 ### Tuning
 - [Waymo (July 2019) & DeepMind - PBT (NOV 2017)](https://blog.waymo.com/2019/08/how-evolutionary-selection-can-train.html)
   - To make this process more efficient, researchers at DeepMind devised a way to automatically determine good hyperparameter schedules based on evolutionary competition (called [“Population Based Training” or PBT](https://deepmind.com/blog/article/population-based-training-neural-networks])), which combines the advantages of hand-tuning and random search.
-  - To make this process more efficient, researchers at DeepMind devised a way to automatically determine good hyperparameter schedules based on evolutionary competition (called [“Population Based Training” or PBT](https://deepmind.com/blog/article/population-based-training-neural-networks])), which combines the advantages of hand-tuning and random search.
   - PBT 的思路是，在training的每一步中都评分一下参数，然后选择新参数；
     - 这样会比train完再评价+选新参数效率更高，而且是在训练过程中的搜索（PBT discovers a schedule of hyperparameter settings rather than following the generally sub-optimal strategy of trying to find a single fixed set to use for the whole course of training.）
 - `Apollo-2018` An Auto-tuning Framework for Autonomous Vehicles
