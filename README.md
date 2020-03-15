@@ -28,8 +28,8 @@ Paper list for deep learning in deciding and planning of auto-driving
 ### Attention
 - `2020` Learning a Directional Soft Lane Affordance Model for Road Scenes Using Self-Supervision
   - A self-supervised method for training a probabilistic network model to estimate the regions humans are most likely to drive in as well as a multimodal representation of the inferred direction of travel at each point.
- - `2019-nips` Social Attention for Autonomous Decision-Making in Dense Traffic
-  - 用 attention 解决了周围障碍物排序的问题
+- `2019-nips` Social Attention for Autonomous Decision-Making in Dense Traffic
+    - 用 attention 解决了周围障碍物排序的问题
   
 ### Replace Cost Function
 - `CVPR-2019` [End-to-end Interpretable Neural Motion Planner](http://www.cs.toronto.edu/~wenjie/papers/cvpr19/nmp.pdf)
