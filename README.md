@@ -17,7 +17,7 @@ Paper list for deep learning in deciding and planning of auto-driving
   - 将 AC 架构下的 IRL 简化至 Value Based
   - 假设human的得分应该在最高分附近，因此通过约束planner的得分要高于human的得分，训练cost func里的参数
 
-### safety 
+### Safety 
 - `2020`Training Adversarial Agents to Exploit Weaknesses in Deep Control Policies`用对抗agent去寻找当前pdc的弱点`
   - 文章没写清楚input，output和model，缺少关键信息
 - `2018` Parallel Planning: A New Motion Planning Framework for Autonomous Driving
